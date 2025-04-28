@@ -1,0 +1,5 @@
+module UpperApp {
+    interface UpperCase {
+        string to_upper(in string input);
+    };
+};
